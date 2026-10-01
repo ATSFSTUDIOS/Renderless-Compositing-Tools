@@ -4,7 +4,7 @@ Created by: [Andrew Hazelden](mailto:andrew@andrewhazelden.com)
 
 ## Overview
 
-The ATSF team's pipeline automation software provided in this GitHub project is developed for a target market of old-school indie game artists and real-time software developers.
+The ATSF team's pipeline automation software provided by this GitHub project is developed for a target market of old-school indie game artists and real-time software developers.
 
 The scripts, plugins, and libraries shipped as part of the renderless compositing toolset allow you to dip your toes into a unique concept that facilitates a seamless in-memory way to bidirectionally bridge your various DCC software's 3D scene-graph and node-based 2D/3D compositing data streams. The goal is to improve artist efficiencies and lower the technical barriers that would otherwise slow the creative team down.
 
